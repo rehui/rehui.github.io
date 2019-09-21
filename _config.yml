@@ -96,6 +96,6 @@ service-worker: true
 friends: [
     {
         title: "热惠",
-        href: "https://rehui.github.io
+        href: "https://rehui.github.io"
     }
 ]
